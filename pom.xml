@@ -7,7 +7,7 @@
   <artifactId>perso</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>Maven Quick Start Archetype</name>
+  <name>Maven Quick Start Archetype of category hue</name>
   <url>http://maven.apache.org</url>
 
 
